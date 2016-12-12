@@ -1,0 +1,23 @@
+.row {
+  text-align: center;
+  height: 250px;
+  background-color: #293A4A;
+  max-width: 1280px;
+  margin-top: 0px;
+}
+ul {
+  list-style: none;
+  padding: 0px;
+  margin: 0px;
+  position: relative;
+  top: 50px;
+  text-align: center;
+}
+ul li {
+  padding-bottom: 0px;
+  color: #ffffff;
+}
+img {
+  border: 5px solid #8CC24A;
+  margin-bottom: 20px;
+}

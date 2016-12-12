@@ -1,0 +1,38 @@
+<nav class="navbar navbar-default widian-nav">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" id="logo" [routerLink]="['/']"><img src="../assets/images/{{headers.logoName}}" alt=""></a>
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li><a [routerLink]="['/welcome']" routerLinkActive="active">{{headers.nav1}}</a></li>
+        <li><a [routerLink]="['/product']" routerLinkActive="active">{{headers.nav2}}</a></li>
+        <li><a [routerLink]="['/technology']" routerLinkActive="active">{{headers.nav3}}</a></li>
+        <li><a [routerLink]="['/service']" routerLinkActive="active">{{headers.nav4}}</a></li>
+        <li><a [routerLink]="['/partner']" routerLinkActive="active">{{headers.nav5}}</a></li>
+        <li><a [routerLink]="['/customer']" routerLinkActive="active">{{headers.nav6}}</a></li>
+        <li><a [routerLink]="['/contact']" routerLinkActive="active">{{headers.nav7}}</a></li>
+
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li></li>
+        <li>
+          <a [routerLink]="['/joinus']" routerLinkActive="active">
+            <i class="fa fa-plus" aria-hidden="true"></i> {{headers.joinus}}
+          </a>
+        </li>
+      </ul>
+    </div>
+    <!-- /.navbar-collapse -->
+  </div>
+  <!-- /.container-fluid -->
+</nav>

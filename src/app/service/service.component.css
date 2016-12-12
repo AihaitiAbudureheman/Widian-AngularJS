@@ -1,0 +1,36 @@
+.row {
+  max-width: 1280px;
+  background-color: #8BC34A;
+}
+.row1 {
+  text-align: center;
+  margin-bottom: 30px;
+}
+.quotes, .row1 i {
+  color: #293A4A;
+  font-size: 200%;
+}
+.row2-col {
+  padding: 30px 30px 15px 30px;
+  min-height: 100px;
+  border-top: 1px solid #d4d4d4;
+}
+#col-right {
+  border-left: 1px solid #d4d4d4;
+}
+h2 {
+  margin-top: 50px;
+  margin-bottom: 20px;
+  color: #ffffff;
+}
+h4 {
+  color: #ffffff;
+}
+p {
+  font-size: 120%;
+  color: #F4F4F4;
+}
+.quotes, .row2 i {
+  color: #293A4A;
+  font-size: 200%;
+}

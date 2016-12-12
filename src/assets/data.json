@@ -1,0 +1,122 @@
+{
+  "headers":{
+    "logoName":"logo.png",
+    "nav1":"welcome",
+    "nav2":"product",
+    "nav3":"technology",
+    "nav4":"service",
+    "nav5":"partner",
+    "nav6":"customer",
+    "nav7":"contact",
+    "joinus":"join us"
+  },
+  "footers":{
+    "imageName":"honor.jpg",
+    "text1":"Widian Oy 2016",
+    "text2":"All rights reserved"
+  },
+  "welcome":{
+    "title":"Widian As A Mobile Software Expert",
+    "subtitle":"With 10 + years history as a mobile software expert , Widian understands the mobile enterprise solution and mobile office market need better than most",
+    "buttonName":"Learn More",
+    "imageName":"mobility.jpeg",
+    "introTitle":"Widian understand mobility",
+    "desc1":"Widian Ltd. is a specialist in wireless handheld computing, using open standards to provide the corporate applications enterprises need on the handhelds they choose.",
+    "desc2":"Widian Ltd. is a specialist in wireless handheld computing, using open standards to provide the corporate applications enterprises need on the handhelds they choose."
+  },
+  "product":{
+    "title":"Our Products",
+    "subtitle":"We have used our experience to create solutions that are both simple to use, and simple to implement. ",
+    "product1-title":"Widian Mobile",
+    "product2-title":"Widian Mobile Express",
+    "product1-desc":"Widian Mobile extends the usability of groupware solutions like by offering their features like e-mail and calendar in a wireless environment. Widian Mobile brings also intranet and extranet appilcations and operative databases safely and securely to mobile device, whether your are at home, travelling, or in the car.",
+    "product2-desc":"Widian Mobile Express is a specialized data conversion tool that can be used to format information from Intranet and Internet applications so that it can be used conveniently on mobile devices. The tool automatically fetches the original content and transforms it into a format the mobile device can read. In addition, it can be used to create mobile applications that require user authentication."
+  },
+  "tech":{
+    "imageName":"tech.jpg",
+    "title":"Our Technology",
+    "desc1":"As an innovative company at the cutting edge of the industry, we bring with us a flexibility and adaptability, meaning that we can take advantage of any new technologies as they happen.",
+    "desc2":"Widian solutions can be created using commonly known mobile technologies. Widian’s team is significantly skilled in Android, Mobile Web, iOS, J2ME, C#, Symbian OS, C++ and Tetra allowing our projects maximum flexibility in terms of harnessing phone features and APIs. <br><br> Widian has shown its prowess in integrating the needs of the professional mobile users to the realities of the mobile marketplace, extending their core capabilities to make organizations work more efficiently.<br><br> Because our solutions are based on Open Standards, integration and compatibility are fast and cost effective. And because we don’t use of proprietary protocols or elements, integration to existing services is generally straightforward."
+  },
+  "service":{
+    "title":"our Services",
+    "subtitle":"Widian has been providing smartphone services since the first Symbian OS-based phones became available. Those applications are often attached to client’s legacy and database systems whilst harnessing the new features and functionality available in such modern phones.",
+    "service1":"Mobile innovation consultancy",
+    "service2":"Consultancy to create new mobile business or bringing and existing business into mobile world",
+    "service3":"Mobile concept and end user experience design",
+    "service4":"Technology consultancy related to different platform",
+    "service5":"Fast prototyping development",
+    "service6":"Apllication and mobile web development",
+    "service7":"Web and mobile development to support mobile solution",
+    "service8":"Testing, hosting and monitoring"
+  },
+  "partner":{
+    "imageName":"partner.png",
+    "title":"Our Partner",
+    "desc1":"We are co-operating with partners to provide better products and services to enterprises and end users.",
+    "desc2":"Widian products and consultancy/development work includes collaborative efforts with operators, software houses, service providers, system integrators and device manufacturers developing solutions for the enterprise market. We are able to commit ourselves to long lasting partnerships in the future."
+  },
+  "customer":{
+    "imageName":"customers.jpg",
+    "title":"Our Customers",
+    "desc1":"We are ready to commit ourselves to long lasting partnership",
+    "desc2":"Widian delivers proven mobile solutions to wireless operators,service providers, software houses and enterprises. We have an excellent track record of having consistently delivered solutions on time, within budget, and with verifiably excellent results. <br><br> Having co-operated with the end-user organizations, the device manufacturers, the operators, the service providers, the software houses, Widian has considerable experience in mobile technology, so we know and understand not just the technology, but the customer organizations’ and the end users’ needs. Widian products and services are being used in Finland, Belgium, Germany, Sweden and UK."
+  },
+  "contact":{
+    "title":"Contact Us",
+    "label1":"Email",
+    "label2":"Name",
+    "label3":"Message",
+    "buttonName":"send message",
+    "office1":"Helsinki Office",
+    "address1":"Malmin Raitti 17 <br> FIN-00700 Helsinki <br>Finland",
+    "office2":"Tornio Office",
+    "contacts":"Contact Directly",
+    "phone":"Jari Huttunen: +358 50 67033<br>Antti Timonen: +358 50 5002117",
+    "email":"email",
+    "emailAddress":"firstname.lastname@widian.fi"
+  },
+  "joinus":{
+    "title":"Welcome to Widian World",
+    "subtitle":"With 10 + years history as a mobile software expert , Widian understands the mobility<br> enterprise solution and mobile office market need better than most, but in order to achieve more we really need you!",
+    "topButton":"current open position",
+    "positionTittle":"Current Open Position",
+    "imageName":"tech.jpg",
+    "positionName":"Current open position name",
+    "positionDesc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus urna non tincidunt pellentesque. Proin et scelerisque lectus. Nam gravida mattis felis sit amet tincidunt. Donec mollis accumsan hendrerit. Aliquam laoreet gravida augue et elementum.",
+    "positionButton":"Learn More",
+    "openPositionTittle":"Open Position Name",
+    "location": "Location: Helsinki",
+    "jobArea":"Job area: Financial management",
+    "organization":"Organization: Financial Department",
+    "employmentType":"Form of employment: Full-time",
+    "applicationPeriod":"Application period: 09-12-2016 to 18-12-2016",
+    "overviewTitle":"Current open position overview",
+    "overviewDesc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sit amet tristique nibh. Sed varius luctus massa, vel malesuada purus bibendum sit amet. Cras consectetur tincidunt neque non porttitor. Mauris semper ipsum in porttitor ultrices. Sedest augue, fringilla quis imperdiet a, suscipit non nibh. Nulla facilisi. Donec in malesuada lorem, eget fermentum ante.<br><br> Fusce elementum porttitor sem a pellentesque. Integer laoreet interdum urna a porttitor. Pellentesque elit turpis, semper id elementum sed, sagittis vehicula mi. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.Cras sed mauris ultricies lorem cursus rutrum quis vel urna. Cras auctor urna ante, eu sollicitudin neque tempor consectetur. Duis lobortis lectus eget enim pulvinar vestibulum. Nullam quis tempus arcu. Vestibulum vitae ex viverra, tristique orci ac, auctor velit. Donec venenatis pellentesque dui ac tempus. Maecenas ut est orci.",
+    "exampleTitle":"Examples of what you would be working with",
+    "exampleList":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sit amet tristique nibh. Sed varius luctus massa, vel malesuada purus bibendum sit amet. Cras consectetur tincidunt neque non porttitor",
+    "skillsTitle":"What skills and experiences we would expect",
+    "skillList":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sit amet tristique nibh. Sed varius luctus massa, vel malesuada purus bibendum sit amet. Cras consectetur tincidunt neque non porttitor",
+    "likeTitle":"What we would like you to be like",
+    "likeList":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sit amet tristique nibh. Sed varius luctus massa, vel malesuada purus bibendum sit amet. Cras consectetur tincidunt neque non porttitor",
+    "offerTitle":"What we would like you to be like",
+    "offerDesc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sit amet tristique nibh. Sed varius luctus massa, vel malesuada purus bibendum sit amet. Cras consectetur tincidunt neque non porttitor. Mauris semper ipsum in porttitor ultrices. Sed est augue, fringilla quis imperdiet a, suscipit non nibh. Nulla facilisi. Donec in malesuada lorem, eget fermentum ante.",
+    "applyTitle":"Apply for this position",
+    "label1":"First name",
+    "label2":"Last name",
+    "label3":"Phone",
+    "label4":"Email",
+    "label5":"Portfolio URL",
+    "label6":"Linkedin Url",
+    "label7":"Please tell us why would you and us a great match",
+    "label8":"Attachements",
+    "label9":"CV",
+    "label10":"Cover letter",
+    "label11":"portfolio",
+    "label12":"Study record",
+    "label13":"Certificate",
+    "label14":"Other",
+    "fileType":"Please add DOC, DOCX, ODT, PDF files under 5MB",
+    "submitButton":"submit application"
+  }
+}
